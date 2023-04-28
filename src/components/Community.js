@@ -5,7 +5,7 @@ function CompanyList() {
     <>
       <div className="mx-auto px-6 py-6 bg-gradient-to-br from-purple-500 via-indigo-600 to-blue-500">
         <div className="bg-white p-8 rounded-lg shadow-lg">
-          <h1 className="text-5xl font-bold mb-20 text-center text-gray-900">Communities</h1>
+          <h1 className="text-5xl font-bold mb-20 text-center text-gray-900">Grow with Communities</h1>
           {['business', 'startup incubators', 'tech community', 'communities'].map((category) => (
             <div key={category} className="mb-12">
               <h2 className="text-3xl font-bold mb-6 text-indigo-600">{category.charAt(0).toUpperCase() + category.slice(1)}</h2>
