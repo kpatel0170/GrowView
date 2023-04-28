@@ -1,0 +1,113 @@
+{
+  "business": [
+    {
+      "Collisions": {
+        "url": "http://www.collisions.ca/",
+        "description": "A digital product studio that designs and develops web and mobile applications.",
+        "logo": null
+      },
+      "Regina Chamber of Commerce": {
+        "url": "http://www.reginachamber.com/",
+        "description": "A membership-based organization that promotes economic growth and prosperity in the Regina region.",
+        "logo": "https://www.reginachamber.com/uploads/1"
+      }
+    }
+  ],
+  "startup incubators": [
+    {
+      "StartupTNT": {
+        "url": "http://www.startuptnt.com/",
+        "description": "StartupTNT is a community of entrepreneurs, scientists, investors, innovators and startup supporters that gathers every week to have fun, share stories, and build great companies.",
+        "logo": "../assets/logos/startupTNT.png"
+      },
+      "Cultivator": {
+        "url": "http://cultivator.co/",
+        "description": "Cultivator powered by Conexus (Cultivator) was built to create an innovation hub that provided the programming, resources, mentorship, funding, and space for founders to accelerate the growth of local tech startups. Founded by Conexus Credit Union (Conexus), we’re Canada’s first credit union-led tech incubator, located in Regina, Saskatchewan",
+        "logo": "../assets/logos/cultivator.png"
+      },
+      "The Key Incubator": {
+        "url": "http://thekeyincubator.com/",
+        "description": null,
+        "logo": null
+      },
+      "Co.Labs": {
+        "url": "http://www.co-labs.com/",
+        "description": null,
+        "logo": null
+      }
+    }
+  ],
+  "tech community": [
+    {
+      "HackRegina": {
+        "url": "http://hackregina.com/",
+        "description": null,
+        "logo": null
+      },
+      "CSSS": {
+        "url": "http://csss.uofr.com/",
+        "description": null,
+        "logo": null
+      },
+      "URGDSC": {
+        "url": "http://urdsc.com/",
+        "description": null,
+        "logo": null
+      },
+      "IEEE": {
+        "url": "http://ieee.uofr.com/",
+        "description": null,
+        "logo": null
+      },
+      "USaskDev": {
+        "url": "http://usaskdev.com/",
+        "description": null,
+        "logo": null
+      },
+      "Saskdottech": {
+        "url": "http://saskdottech.com/",
+        "description": null,
+        "logo": null
+      }
+    }
+  ],
+  "communities": [
+    {
+      "URESS": {
+        "url": "http://www.uress.ca/",
+        "description": null,
+        "logo": null
+      },
+      "WESK": {
+        "url": "http://www.wesk.ca/",
+        "description": null,
+        "logo": null
+      },
+      "Regina Open Door Society": {
+        "url": "http://www.rodssk.ca/",
+        "description": null,
+        "logo": null
+      },
+      "Toastmasters": {
+        "url": "http://www.toastmasters.org/",
+        "description": null,
+        "logo": null
+      },
+      "UMASS": {
+        "url": "http://www.umass.ca/",
+        "description": null,
+        "logo": null
+      },
+      "UR Ambassadors": {
+        "url": "http://www.ambassadors.uregina.ca/",
+        "description": null,
+        "logo": null
+      },
+      "CSEL": {
+        "url": "http://www.csel.ca/",
+        "description": null,
+        "logo": null
+      }
+    }
+  ]
+}
