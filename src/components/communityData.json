@@ -73,24 +73,29 @@
   ],
   "communities": [
     {
+      "URPATH":{
+        "url": "https://urpath.uregina.ca/students",
+        "description": "UR Path is designed to help you succeed both in and outside the classroom through experiential learning opportunities",
+        "logo": ""
+      },
       "URESS": {
         "url": "/",
-        "description": null,
+        "description": "University of Regina Engineering Students' Society",
         "logo": "images/uress.png"
       },
       "UMASS": {
         "url": "/",
-        "description": null,
+        "description": "University of Regina's Mathematics and Statistics Society",
         "logo": "images/umass.png"
       },
       "UR Ambassadors": {
         "url": "/",
-        "description": null,
+        "description": "The goals of Student Leadership Programs are to enhance the learning experience of our participants by providing them with interpersonal and leadership skill development opportunities, opportunities to create connections with other students and staff, and opportunities to give back to the university and the community.",
         "logo": "images/ambassadors.png"
       },
       "CSEL": {
-        "url": "/",
-        "description": null,
+        "url": "https://www.uregina.ca/cesl/",
+        "description": "At the Centre for Experiential and Service Learning we're here to help you learn by doing, which is what experiential learning is all about! You’ll have more opportunities to apply what you learn – not only in the classroom, but across campus, and in the wider community.",
         "logo": "images/csel.png"
       },
       "Regina Open Door Society": {
@@ -99,8 +104,8 @@
         "logo": "images/rodssk.png"
       },
       "Toastmasters": {
-        "url": "/",
-        "description": null,
+        "url": "https://www.toastmasters.org/",
+        "description": "Toastmasters International is a nonprofit educational organization that teaches public speaking and leadership skills through a worldwide network of clubs.",
         "logo": "images/toastmasters.png"
       }
     }
